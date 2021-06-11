@@ -1,39 +1,30 @@
 # Torrentium
-=============
 A torrent scraper android made using custom made api for torrent sites (nyaa) only for now on private server, along with cloud downloader.
 
 - This ones a beta version so i can fix any bug before sleeping on stable version
 
 # Design
-=============
 ![Design](https://files.catbox.moe/hgykwn.png "Design")
 
 # Requirements
-=============
 - Android 8.1 (API level 27) and up
 
 # Features
-=============
 - API based, so doesn't matter if nyaa is blocked on your ISP
 - Material design day/night layout
 
 # Missing features
-==========================
-
 - No comments or files list
 - Can't open nyaa link in app
 
 # Known bugs
-==========================
- None̥
+ None
 
 # Note
-=======
 Just started learning app development first app every made so keep your hope low, also first public repo gimmme few days i'll make this readme look good.
 This app was inital for personal use only as you can proably tell half the features are locked, but decided to make it public after all ISPs started blocking nyaa. 
  
-# FAQ
-===== 
+# FAQ 
 **Where is the source code?**
 **Ans:** This is not open source, github was just convenient for distribution 
 
@@ -54,9 +45,7 @@ This app was inital for personal use only as you can proably tell half the featu
 
 
 # License
-=========
 TODO
 
 # Libraries
-============
 TODO
